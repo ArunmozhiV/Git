@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29044" started-at="2022-02-24T05:50:19Z" finished-at="2022-02-24T05:50:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29044" started-at="2022-02-24T05:50:19Z" finished-at="2022-02-24T05:50:48Z">
+      <class name="test.ng.Integrations">
+        <test-method status="PASS" signature="Beforeclass()[pri:0, instance:test.ng.Integrations@4fe3c938]" name="Beforeclass" is-config="true" duration-ms="25143" started-at="2022-02-24T05:50:19Z" finished-at="2022-02-24T05:50:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforeclass -->
+        <test-method status="PASS" signature="login()[pri:0, instance:test.ng.Integrations@4fe3c938]" name="login" duration-ms="3825" started-at="2022-02-24T05:50:45Z" finished-at="2022-02-24T05:50:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- test.ng.Integrations -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
